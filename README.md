@@ -3,7 +3,7 @@
 ### Profil
 _Nama   : Nabilah Ananda Putri_
 _Nim    : 312110263_
-_Kelas  : TI.21.A.1
+_Kelas  : TI.21.A.1_
 
 ## Latihan 1
 
