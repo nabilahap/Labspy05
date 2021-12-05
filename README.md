@@ -1,11 +1,21 @@
 # Labspy05
 
 ### Profil
-_Nama   : Nabilah Ananda Putri_
-_Nim    : 312110263_
-_Kelas  : TI.21.A.1_
+__Nama  : Nabilah Ananda Putri__
+
+__Nim   : 312110263__
+
+__Kelas : T1.21.A.1__
 
 ## Latihan 1
+> - Buat Dictionary daftar kontak
+> - Tampilkan kontak Ari
+> - Tambah kontak baru dengan nama Riko, nomor 627654544
+> - Ubah kontak Dina dengan nomor baru 6288999776
+> - Tampilkan semua nama
+> - Tampilkan semua nomor
+> - Tampilkan daftar nama dan nomornya
+> - hapus kontak Dina
 
 ### Program
 - ![Gambar1](screenshots/Screenshot1.png)
